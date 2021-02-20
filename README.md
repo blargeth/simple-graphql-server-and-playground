@@ -29,6 +29,6 @@ into your browser and hit ENTER. The GraphiQL tool should open up.
 
 (8) Also, toward the top-right corner of the GraphiQL tool in your browser, there's a Docs tab. Click it and play around with it. It shows you, for the server, what root types exist (i.e. query and mutation, in our case), etc... This is especially useful for anyone using a GraphQL server they didn't set up, as it informs them what kinds of queries can be made and what information is available.
 
-From here, you can play around with the queries/mutations, and even play around with the code in sevrer.js.
+From here, you can play around with the queries/mutations, and even play around with the code in server.js.
 
 Happy tinkering!
